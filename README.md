@@ -13,7 +13,7 @@ The program prints a simple introduction:
 ```text
 Hello Belfast!
 My name is Jacob.
-I will become an AI professional.
+I am beginning my journey to becoming an AI professional.
 ```
 
 ## Why I Created This Project
