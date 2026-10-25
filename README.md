@@ -11,7 +11,7 @@ The purpose of this repository is not to build a complex application, but to tak
 The program prints a simple introduction:
 
 ```text
-Hello Belfast!
+Hello Guys!
 My name is Jacob.
 I am beginning my journey to becoming an AI professional.
 ```
